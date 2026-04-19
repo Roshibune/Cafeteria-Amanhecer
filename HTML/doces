@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "estilo.css">
+    <link rel="icon" href="imagem/Icon.png" sizes="32x32" type="image/png">
+    <title>Cafeteria Amanhecer</title>
+</head>
+<body>
+    <h1><img src="imagem/Icon.png" class="icon">Cafeteria Amanhecer</h1>
+    <h2>Menu</h2>
+    <ul class = "menu">
+        <li><a href ='/index.html'>Página Inicial </a></li>
+        <li><a href ='/bebidas.html'>Bebidas</a></li>
+        <li><a href ='/salgados.html'>Salgados</a></li>
+        <li><a href ='/doces.html'>Doces</a></li>
+    </ul>
+    <h3>Doces:</h3>
+    <h4>Fatias de Bolo:</h4>
+    <ul class="itens">
+        <li>Chocolate c/ Maracujá</li>
+        <img>
+        <li>Ninho c/ Morango</li>
+        <img>
+        <li>Abacaxi c/ Ninho</li>
+        <img>
+        <li>Doce de Leite c/ Chocolate</li>
+        <img>
+        <li>Brigadeiro c/ Chocolate</li>
+        <img>
+        <li>Limão c/ Ninho</li>
+        <img>
+    </ul>
+    <h4>Tortas:</h4>
+    <ul class="itens">
+        <li>Bannofe</li>
+        <img>
+        <li>Escocesa</li>
+        <img>
+        <li>Limão</li>
+        <img>
+        <li>Maracujá</li>
+        <img>
+        <li>Maçã</li>
+        <img>
+    </ul>
+    <h4>Brownies:</h4>
+    <ul class="itens">
+        <li>Comum</li>
+        <img>
+        <li>Brownie Branco</li>
+        <img>
+        <li>Redvelvet</li>
+        <img>
+        <li>Chocolate c/ Ninho</li>
+        <img>
+        <li>Chocolate c/ Nuttela</li>
+        <img>
+    </ul>
+    <h4>Docinhos:</h4>
+    <ul class="itens">
+        <li>Brigadeiro</li>
+        <img>
+        <li>Beijinho</li>
+        <img>
+        <li>Cajuzinho</li>
+        <img>
+        <li>Morango do Amor</li>
+        <img>
+        <li>Trufas</li>
+        <img>
+        <li>Brigadeiro c/ Morango</li>
+        <img>
+    </ul>
+    <footer>
+  <div class="rodape">
+
+    <div class="info">
+      <h3>Cafeteria Amanhecer</h3>
+      <p>Onde o café encontra a leitura ☕</p>
+    </div>
+
+    <div class="contato">
+      <p>📍 Salinas - MG</p>
+      <p>📞 (38) 98382-0455</p>
+      <p>✉️ cafeteriaAmanhecer.com</p>
+    </div>
+
+    <div class="redes">
+      <p>Siga-nos:</p>
+      <a>Instagram: @C.Amanhecer</a>
+      <a>Facebook: @C.Amanhecer</a>
+    </div>
+
+  </div>
+  <p class="copy">© 2026 Cafeteria Amanhecer</p>
+</footer>
+</body>
+</html>
