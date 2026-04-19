@@ -1,12 +1,12 @@
 body {
-  background-color: #c9a48c;
+  background-color: #6e9e6c;
 }
 h1{
   color: black;
   font-size: 100px;
   font-family: 'Pirou', sans-serif;
   text-align: center;
-  background-color: #9e7154;
+  background-color: white;
   padding: 90px;
   margin: 0px;
 }
@@ -30,7 +30,7 @@ p{
   font-size: 28px;
   font-family: "Times New Roman";
   text-align: justify;
-  background-color: #9e7154;
+  background-color: #7c5b46;
   padding: 15px;
   margin: 10px;
   margin-left: 90px;
@@ -51,7 +51,7 @@ p{
   font-size: 35px;
   font-family: 'Bebas Neue', sans-serif;
   text-decoration: none;
-  background-color: #9e7154;
+  background-color: white;
   padding: 10px 20px;
   border-radius: 30px;
 }
@@ -66,4 +66,45 @@ p{
   margin: 0 auto;
   margin-bottom: 5px;
   box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.5);
+}
+.destaques{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  width: 80%;
+  margin: 40px auto;
+}
+.card{
+  width: 30%;
+  background-color: #7c5b46;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+}
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+.rodape{
+  font-family: 'Arimo', sans-serif;
+}
+footer {
+  font-family: 'Arimo', sans-serif;
+  background-color: #7c5b46;
+  color: white;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+.footer-container {
+  display: flex; 
+  justify-content: space-around;
+  width: 80%;
+  margin: auto;
+}
+.itens{
+  font-family: "Times New Roman";
 }
