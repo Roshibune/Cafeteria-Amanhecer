@@ -33,10 +33,10 @@ p{
   color: white;
   font-size: 28px;
   font-family: "Times New Roman";
-  text-align: center;
+  text-align: justify;
   background-color: #7c5b46;
   padding: 15px;
-  margin: 10px;
+  margin: 10px auto;
   margin-left: 90px;
   margin-right: 90px;
   border-radius: 30px;
