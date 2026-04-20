@@ -97,14 +97,22 @@ footer {
   font-family: 'Arimo', sans-serif;
   background-color: #7c5b46;
   color: white;
-  padding: 20px 0;
+  padding: 10px 0; /* menor */
   margin-top: 40px;
 }
 .footer-container {
-  display: flex; 
+  display: flex;
   justify-content: space-around;
+  align-items: center;
   width: 80%;
   margin: auto;
+}
+.footer-container p {
+  margin: 5px 0;
+}
+
+.footer-container h3 {
+  margin: 5px 0;
 }
 .itens{
   color: white;
