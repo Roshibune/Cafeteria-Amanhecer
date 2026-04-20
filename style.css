@@ -120,3 +120,16 @@ footer {
   font-family: "Times New Roman";
   text-align: left;
 }
+.livros{
+  color: white;
+  font-size: 30px;
+  font-family: "Times New Roman";
+  width: 30%;
+  background-color: #7c5b46;
+  padding: 20px;
+  text-align: left;
+  border-radius: 10px;
+}
+.descricao{
+  text-align: center;
+}
