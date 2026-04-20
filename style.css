@@ -120,6 +120,8 @@ footer {
   font-size: 28px;
   font-family: "Times New Roman";
   text-align: center;
+  margin: 20px;
+  margin-top: 10px;
 }
 .descricao{
   text-align: center;
