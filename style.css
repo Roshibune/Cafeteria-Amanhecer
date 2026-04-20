@@ -22,8 +22,12 @@ h3{
 }
 h4{
   font-size: 40px;
+  background-color: #7c5b46;
+  padding: 15px;
   font-family: 'Bebas Neue', sans-serif;
   text-align: left;
+  border-radius: 30px;
+  display: inline-block;
 }
 p{
   color: white;
@@ -36,6 +40,7 @@ p{
   margin-left: 90px;
   margin-right: 90px;
   border-radius: 30px;
+  display: inline-block;
 }
 .menu {
   display: flex;
